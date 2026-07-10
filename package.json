@@ -3,6 +3,10 @@
   "displayName": "DankPurple Muted",
   "description": "A muted version of the dank purple vs code theme",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShaunLawrie/DankPurpleMutedVsCode.git"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
